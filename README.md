@@ -28,10 +28,7 @@ A professional-grade cryptocurrency portfolio tracking system with advanced anal
 ![Main Dashboard](docs/images/main-dashboard.png)
 
 ### Performance Metrics
-![Performance Metrics](docs/images/performance-metrics.png)
-
-### Cost Basis Analysis
-![Cost Basis](docs/images/cost-basis.png)
+![Performance Metrics](docs/images/dashboard-screenshot.png)
 
 </details>
 
